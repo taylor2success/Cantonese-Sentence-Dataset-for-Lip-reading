@@ -6,7 +6,7 @@
 **🎉MF-MOS achieved a leading IoU of **_76.7%_** on [the MOS leaderboard of the SemanticKITTI](https://codalab.lisn.upsaclay.fr/competitions/7088) upon submission, demonstrating the current SOTA performance.**
 
 <p align="center">
-<img src="CLRS_tiny/readme_file/数据集介绍.emf" width="90%">
+<img src="CLRS_tiny/readme_file/数据集介绍.jpg" width="90%">
 </p>
 <b><p align="center" style="margin-top: -20px;">
 The MOS leaderboard
