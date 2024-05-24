@@ -1,8 +1,6 @@
 # Cantonese-Sentence-Dataset-for-Lip-reading
 <div align="center">
-<div>
-    <a href="https://www.bilibili.com/video/BV1ZM411Z7rP/?share_source=copy_web&vd_source=902841b9751bc137897f677e1ea56624"><img src="http://img.shields.io/badge/video-bilibili%3AMF--MOS-FF6699.svg"></a>
-  </div>
+
 </div>
 
 **🎉MF-MOS achieved a leading IoU of **_76.7%_** on [the MOS leaderboard of the SemanticKITTI](https://codalab.lisn.upsaclay.fr/competitions/7088) upon submission, demonstrating the current SOTA performance.**
